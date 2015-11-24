@@ -1,6 +1,7 @@
 # gittest
 @webcaetano github test repol
 
-
-This is a good idea
-ss
+testing symbolic link windows 7
+dzz
+z
+z
