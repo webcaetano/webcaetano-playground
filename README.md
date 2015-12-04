@@ -2,4 +2,4 @@
 @webcaetano github test repol
 
 bk
-![](http://google.github.io/material-design-icons/maps/svg/production/ic_beenhere_24px.svg)
+![](https://storage.googleapis.com/material-icons/external-assets/v2/icons/svg/ic_visibility_black_24px.svg)
