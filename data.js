@@ -1,4 +1,6 @@
 module.exports = [
-	{name:"bola"},
-	{name:"ball"},
+	{name:"lulu"},
+	{name:"taric"},
+	{name:"janna"},
+	{name:"bard"},
 ]
