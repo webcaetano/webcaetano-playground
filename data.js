@@ -3,4 +3,7 @@ module.exports = [
 	{name:"taric"},
 	{name:"janna"},
 	{name:"bard"},
+	{name:"karma"},
+	{name:"braum"},
+	{name:"thresh"},
 ]
