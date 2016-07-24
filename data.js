@@ -6,4 +6,6 @@ module.exports = [
 	{name:"karma"},
 	{name:"braum"},
 	{name:"thresh"},
+	{name:"nautilus"},
+	{name:"nami"},
 ]
