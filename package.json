@@ -1,0 +1,22 @@
+{
+  "name": "webcaetano-playground",
+  "version": "1.0.0",
+  "description": "@webcaetano git/github tests",
+  "main": "data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webcaetano/webcaetano-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webcaetano/webcaetano-playground/issues"
+  },
+  "homepage": "https://github.com/webcaetano/webcaetano-playground#readme",
+  "devDependencies": {
+    "lodash": "^4.14.1"
+  }
+}
